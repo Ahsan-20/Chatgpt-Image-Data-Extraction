@@ -7,7 +7,7 @@ import requests
 
 
 # Set up OpenAI API credentials
-#openai.api_key = "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"
+#openai.api_key = ""
 
 
 api_url = 'https://api.openai.com/v1/engines'
